@@ -126,3 +126,31 @@
   it: Rukia-Cure
 - id: 0x3925
   en: Rukia Flare
+- id: 0x3338
+  en: A Limit Command that unleashes Rukia´s powerful Comet spell. 
+
+      Consumes all of Ichigo´s MP.
+- id: 0x333A
+  en: A Limit Command that unleashes Rukia´s powerful Flare spell. 
+
+      Consumes all of Ichigo´s MP.
+- id: 0x0278
+  en: Renji: 
+
+      We have to help them!
+- id: 0x0470
+  en: Renji´s equipment has been put in stock.
+- id: 0x0499
+  en: Whirli-Renjira
+- id: 0x049A
+  en: Whirli-Renjiga
+- id: 0x0643
+  en: With Renji´s help, use the Drive 
+
+      Command to change into Valor Form.
+- id: 0x0645
+  en: With Rukia´s help, use 
+
+      the Drive Command to change
+
+      into Wisdom Form.
